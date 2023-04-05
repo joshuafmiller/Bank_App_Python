@@ -1,0 +1,34 @@
+Withdrew $14.75
+Deposited $10.0
+Withdrew $14.75
+Deposited $10.0
+Withdrew $14.75 with a new balance of 31.0
+Deposited $10.0
+Withdrew $14.75 with a new balance of 31.0
+Deposited $10.0
+Withdrew $14.75      Balance: $31.0
+Deposited $10.0      Balance: $60.5
+Withdrew $14.75      Balance: $31.0
+Deposited $10.0      Balance: $60.5
+Withdrew $14.75      Balance: $31.0
+Deposited $10.0      Balance: $60.5
+Withdrew $14.75      Balance: $31.0
+Deposited $10.0      Balance: $60.5
+Withdrew $14.75      Balance: $31.0
+Deposited $10.0      Balance: $60.5
+Withdrew $14.75      Balance: $31.0
+Deposited $10.0      Balance: $60.5
+Withdrew $14.75      Balance: $31.0
+Deposited $10.0      Balance: $60.5
+Withdrew $14.75      Balance: $31.0
+Deposited $20.0      Balance: $70.5
+Deposited $20.0      Balance: $90.5
+Withdrew $20.0      Balance: $50.5
+Withdrew $20.0      Balance: $10.5
+Deposited $20.0      Balance: $30.5
+Deposited $10.0      Balance: $40.5
+Withdrew $10.0      Balance: $20.5
+Withdrew $10.0      Balance: $40.5
+Withdrew $10.0      Balance: $30.5
+Deposited $10.0      Balance: $60.5
+Withdrew $10.0      Balance: $40.5
